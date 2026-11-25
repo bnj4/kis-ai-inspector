@@ -1,0 +1,1 @@
+Next.js 16, React 19 y TypeScript. Node.js 22+. Ejecuta npm install y npm run dev. El navegador llama /api del mismo origen; BACKEND_URL se configura solo en el servidor. Consulta ../docs/RAILWAY.md para producción.
